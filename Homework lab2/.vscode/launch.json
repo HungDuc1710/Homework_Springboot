@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HomeworkApplication<Homework>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "Homework.HomeworkApplication",
+            "projectName": "Homework",
+            "args": ""
+        }
+    ]
+}
